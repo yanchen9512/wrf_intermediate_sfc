@@ -1,7 +1,7 @@
 !======================================================================!
 ! Program: wrf_intermediate_sfc
 ! Author:  Yan Chen
-! Date:    2026-05-24
+! Date:    2019-02-09
 ! Purpose: Convert ECMWF ERA-Interim NetCDF surface data 
 !          to WRF intermediate format
 !======================================================================!
